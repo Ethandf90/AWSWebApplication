@@ -4,8 +4,8 @@ import com.amazonaws.auth.BasicAWSCredentials;
 
 public class AWSCredentials {
 
-	String accessKey = "AKIAJTSU5KGNMMTVUJHA";
-	String secretKey = "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";
+	String accessKey = "";
+	String secretKey = "/ljJX0KJ";
 	BasicAWSCredentials awsCredentials;
 	private static AWSCredentials awsAccessManager;
 	
